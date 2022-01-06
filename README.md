@@ -1,2 +1,3 @@
-# switchNet
-Code for regime-switching Markov random fields
+# About
+
+This repo implements a method for estimating regime-switching Gaussian Markov random fields.
